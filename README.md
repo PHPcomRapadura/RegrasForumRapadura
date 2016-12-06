@@ -1,8 +1,6 @@
 # Regras do Fórum Rapadura
 Regras e código de conduta Fórum Rapadura
 
-Regras do site
-
 Como usuário devidamente registrado no Fórum Rapadura, você reconhece por este que todas as mensagens postadas nos fóruns expressam os pontos de vista e opiniões dos seus respectivos autores e não dos administradores, moderadores ou o encarregado das páginas (exceto mensagens colocadas por essas pessoas), o quais não são responsáveis pelo conteúdo escrito por outros membros da comunidade. Apesar dos administradores e moderadores deste fórum tentarem remover ou editar qualquer material indesejável logo que detectado, é impossível rever todas as mensagens.
 
 Você aceita não postar qualquer mensagem abusiva, obscena, vulgar, insultuosa, de ódio, ameaçadora, sexualmente tendenciosa ou qualquer outro material que possa violar qualquer lei em vigor. Isto conduz à sua expulsão imediata e permanente. Da mesma forma, mensagens de teor político e religioso são desencorajadas, e portanto, passíveis de moderação. Há comunidades específicas para este assunto.
